@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "68ce",
+      "cityName": "Incesu",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2025-04-26T08:14:48.503Z",
+      "notes": "",
+      "position": {
+        "lat": "38.685509760012025",
+        "lng": "35.15625000000001"
+      }
+    },
+    {
+      "id": "e476",
+      "cityName": "Bellver de Cerdanya",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-29T10:05:44.145Z",
+      "notes": "",
+      "position": {
+        "lat": "42.374778361114195",
+        "lng": "1.7578125000000002"
+      }
+    },
+    {
+      "id": "393a",
+      "cityName": "Baku",
+      "country": "Azerbaijan",
+      "emoji": "🇦🇿",
+      "date": "2025-04-29T10:06:27.260Z",
+      "notes": "",
+      "position": {
+        "lat": "40.329795743702064",
+        "lng": "49.89990234375"
+      }
+    }
+  ]
+}
